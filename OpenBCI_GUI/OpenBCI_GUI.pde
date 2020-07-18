@@ -395,7 +395,7 @@ void delayedSetup() {
     topNav = new TopNav();
 
     logo_blue = loadImage("logo_blue.png");
-    logo_white = loadImage("logo_white.png");
+    logo_white = loadImage("logo_white_1.png");
     consoleImgBlue = loadImage("console-45x45-dots_blue.png");
     consoleImgWhite = loadImage("console-45x45-dots_white.png");
     loadingGIF = new Gif(this, "ajax_loader_gray_512.gif");
